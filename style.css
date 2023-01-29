@@ -2,12 +2,15 @@
 	border: 5px solid black;
     background-color: black;
     width: 1200px;
-    height: 1125px;
+    height: auto;
     margin: auto;
 }
 
 .header{
 	background-color: #FCD0B1;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
     width: 1200px;
     height: 100px;
     margin: 0px 0px 5px 0px;
@@ -44,8 +47,11 @@
 
 .footer{
 	background-color: #FCD0B1;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
     width: 1200px;
-    height: 50px;
-    margin: 0px 0px 5px 0px;
+    height: auto;
+    margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 }
