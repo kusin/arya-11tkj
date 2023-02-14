@@ -1,0 +1,22 @@
+.a-nav {
+    font-size: 14pt;
+}
+
+.nav-navbar{
+    margin: 0px 110px 0px 110px;
+    padding: 0px 0px 0px 0px;
+}
+
+.navbar a {
+    color: #000;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    padding: 14px 10px 14px 10px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #c3b98e;
+}
