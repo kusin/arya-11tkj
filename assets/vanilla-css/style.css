@@ -27,6 +27,8 @@
 
 .content{
 	display: inline-flex;
+	width: 1200px;
+    height: auto;
 }
 
 .content-left{

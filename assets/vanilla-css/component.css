@@ -1,0 +1,22 @@
+.article {
+    display: inline-block;
+    background-color: #64dcc1;
+    width: 835px;
+    height: 550px;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.article-head {
+    background-color: yellow;
+    width: auto;
+    height: 150px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+.article-body {
+    background-color: none;
+    width: auto;
+    height: 400px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
